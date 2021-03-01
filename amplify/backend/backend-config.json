@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "fig2flutterv017ecb0d32": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
